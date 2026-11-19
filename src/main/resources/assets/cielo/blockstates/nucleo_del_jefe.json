@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activo=true": {
+      "model": "cielo:block/nucleo_activo"
+    },
+    "activo=false": {
+      "model": "cielo:block/nucleo_apagado"
+    }
+  }
+}

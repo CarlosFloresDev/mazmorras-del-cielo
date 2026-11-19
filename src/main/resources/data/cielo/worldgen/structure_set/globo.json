@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 72003101,
+    "spacing": 22,
+    "separation": 8
+  },
+  "structures": [
+    {
+      "structure": "cielo:globo",
+      "weight": 1
+    }
+  ]
+}

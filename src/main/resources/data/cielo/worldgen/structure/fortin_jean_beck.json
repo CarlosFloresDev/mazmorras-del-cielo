@@ -1,0 +1,8 @@
+{
+  "type": "cielo:mazmorra",
+  "tema": "fortin_jean_beck",
+  "biomes": "#cielo:fortin_jean_beck",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

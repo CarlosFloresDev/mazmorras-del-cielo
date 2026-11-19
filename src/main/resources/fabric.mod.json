@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "cielo",
+  "version": "${version}",
+  "name": "Mazmorras del Cielo",
+  "description": "Grandes mazmorras procedurales en el cielo, el Nether y el End, con llaves, jefes de tres fases y recompensas propias.",
+  "authors": [
+    "chefsitturchey"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/cielo/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aventura.cielo.CieloMod"
+    ],
+    "client": [
+      "com.aventura.cielo.client.CieloClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "misiones": "*",
+    "arequipa": "*",
+    "tecsup": "*",
+    "friendsandfoes": "*"
+  },
+  "mixins": [
+    "cielo.mixins.json"
+  ]
+}

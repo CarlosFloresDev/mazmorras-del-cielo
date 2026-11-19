@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 72003104,
+    "spacing": 70,
+    "separation": 25
+  },
+  "structures": [
+    {
+      "structure": "cielo:fortaleza",
+      "weight": 1
+    }
+  ]
+}

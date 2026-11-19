@@ -1,0 +1,8 @@
+{
+  "type": "cielo:mazmorra",
+  "tema": "bastion_ceniza",
+  "biomes": "#cielo:bastion_ceniza",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

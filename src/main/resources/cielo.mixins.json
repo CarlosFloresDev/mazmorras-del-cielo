@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.aventura.cielo.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ExplosionProtegidaMixin",
+    "FuegoProtegidoMixin",
+    "GriefProtegidoMixin",
+    "PistonProtegidoMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

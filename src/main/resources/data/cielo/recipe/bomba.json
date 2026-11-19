@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:gunpowder",
+    "minecraft:iron_nugget",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "cielo:bomba",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cielo:item/hoja_de_ceniza"
+  }
+}

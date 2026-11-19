@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "GCG",
+    " G "
+  ],
+  "key": {
+    "F": "minecraft:feather",
+    "G": "minecraft:gold_ingot",
+    "C": "minecraft:compass"
+  },
+  "result": {
+    "id": "cielo:brujula_del_cielo"
+  }
+}

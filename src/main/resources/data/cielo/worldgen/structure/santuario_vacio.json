@@ -1,0 +1,8 @@
+{
+  "type": "cielo:mazmorra",
+  "tema": "santuario_vacio",
+  "biomes": "#cielo:santuario_vacio",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

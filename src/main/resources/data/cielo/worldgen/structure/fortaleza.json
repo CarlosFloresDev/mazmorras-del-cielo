@@ -1,0 +1,8 @@
+{
+  "type": "cielo:nave_del_cielo",
+  "tipo": "fortaleza",
+  "biomes": "#minecraft:is_overworld",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

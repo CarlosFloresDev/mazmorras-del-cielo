@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cielo-gametest",
+  "version": "1.0.0",
+  "name": "Mazmorras del Cielo - Pruebas",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": [
+      "com.aventura.cielo.test.CieloGameTests",
+      "com.aventura.cielo.test.CiudadelaGameTests",
+      "com.aventura.cielo.test.ExpansionGameTests",
+      "com.aventura.cielo.test.EnemigosGameTests"
+    ],
+    "fabric-client-gametest": [
+      "com.aventura.cielo.test.CieloClientTests",
+      "com.aventura.cielo.test.CiudadelaClientTests"
+    ]
+  },
+  "depends": {
+    "cielo": "*"
+  }
+}

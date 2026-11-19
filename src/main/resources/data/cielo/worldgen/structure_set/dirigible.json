@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 72003103,
+    "spacing": 48,
+    "separation": 18
+  },
+  "structures": [
+    {
+      "structure": "cielo:dirigible",
+      "weight": 1
+    }
+  ]
+}

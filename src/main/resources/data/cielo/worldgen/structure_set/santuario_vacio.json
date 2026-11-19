@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "cielo:santuario_vacio",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 88,
+    "separation": 30,
+    "salt": 72003403
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "T",
+    "S"
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "T": "minecraft:stick"
+  },
+  "result": {
+    "id": "cielo:escalera_de_cuerda",
+    "count": 6
+  }
+}
